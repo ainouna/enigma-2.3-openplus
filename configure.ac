@@ -1,4 +1,4 @@
-AC_INIT([enigma2],[2.1],[http://www.open-plus.es])
+AC_INIT([enigma2],[2.3],[http://www.open-plus.es])
 AM_INIT_AUTOMAKE([dist-bzip2 no-define tar-pax -Wno-portability])
 AC_CONFIG_HEADERS([enigma2_config.h])
 
